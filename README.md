@@ -14,7 +14,7 @@ To run this application locally, please follow these steps:
 
 ## Usage
 
-1. Make sure you have the necessary data files in the specified paths (`DATA_URL`, `speeds_url`, `crashes_url`).
+1. Make sure you have the necessary data files in the specified paths (`DATA_URL`, `crashes_url`).
 2. Run the following command to start the Streamlit application:
    ```
    streamlit run app.py
@@ -41,6 +41,6 @@ Contributions to this project are welcome. If you encounter any issues or have s
 
 ## Contact
 
-For any questions or inquiries, please contact [kevin.capano99@example.com](mailto:your-email@gmail.com).
+For any questions or inquiries, please contact [kevin.capano99@gmail.com](mailto:your-email@gmail.com).
 
 ---
