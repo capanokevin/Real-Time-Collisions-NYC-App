@@ -31,9 +31,6 @@ To run this application locally, please follow these steps:
 
 Feel free to explore the different features and visualize the motor vehicle collision data in New York City using this Streamlit dashboard.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## Contributions
 
