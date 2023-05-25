@@ -14,8 +14,10 @@ To run this application locally, please follow these steps:
 
 ## Usage
 
-1. Make sure you have the necessary data files in the specified paths (`DATA_URL`, `crashes_url`).
-2. Run the following command to start the Streamlit application:
+1. Start by downloading the dataset "Motor_Vehicle_Collisions_-_Crashes.zip" from the provided source.
+2. Unzip the downloaded file to extract the dataset, which contains valuable information on motor vehicle collisions in New York City.
+3. Make sure you have the necessary data files in the specified paths (`DATA_URL`).
+4. Run the following command to start the Streamlit application:
    ```
    streamlit run app.py
    ```
