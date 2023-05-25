@@ -19,7 +19,7 @@ To run this application locally, please follow these steps:
 3. Make sure you have the necessary data files in the specified paths (`DATA_URL`).
 4. Run the following command to start the Streamlit application:
    ```
-   streamlit run app.py
+   streamlit run 'path to real_time_maps_streamlit.py'
    ```
 3. Access the application by opening the provided URL in your web browser.
 
